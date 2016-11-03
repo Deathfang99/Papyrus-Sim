@@ -1,2 +1,2 @@
 # Papyrus-Sim
-Spaghetti
+This is a clone of the papyrus battle from undertale.
